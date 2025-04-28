@@ -12,10 +12,33 @@ Faster door animations.
 
 Bugfix, and slowdown fixes.
 
-Rebalance characters, and weapons.
+Rebalanced characters, and weapons.
 
-Curse of the Moon subweapon lanterns.
+Alucard better damage, and or new style fireballs both versions.
+
+Grant Japanese version with slightly weaker daggers.
+
+Sypha slightly more balanced magic damage.
+
+Axe Rondo of Blood damage for Trevor.
+
+Daggers better damage except Japanese Grant.
+
+Fire Spell speed fix.
+
+Holy Water slightly rebalanced.
+
+Ice Spell can damage all monsters including bosses.
+
+Lightning spell delay fix, and increase range for lightning orbs.
+
+Rebalanced version for Akumajou Densetsu.
+
+Easier mode for Castlevania 3.
+
+Curse of the Moon Subweapon Lanterns.
 
 Rondo of Blood drop old subweapon on new pickup US only.
 
 Alucard attack on stairs bugfix US only.
+
