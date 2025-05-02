@@ -10,7 +10,9 @@ Faster character swapping.
 
 Faster door animations.
 
-Bugfix, and slowdown fixes.
+Bugfix, and Clocktower slowdown fixes.
+
+Removed falling blocks area on stage 7.
 
 Rebalanced characters, and weapons.
 
