@@ -5,28 +5,29 @@ Castlevania 3 Akumajou Densetsu hack to modernize, rebalance, and add qol featur
 
 Main Features
 
-
 Faster character swapping.
 
 Faster door animations.
 
-Bugfix, and Clocktower slowdown fixes.
+Bugfixes.
 
-Removed falling blocks area on stage 7.
+Clocktower slowdown fixes.
+
+Removed falling block areas on stage 7 Alucard route.
 
 Rebalanced characters, and weapons.
 
 Alucard better damage, and or new style fireballs both versions.
 
-Grant Japanese version with slightly weaker daggers.
+Grant Japanese version with optional slightly weaker daggers.
 
-Sypha slightly more balanced magic damage.
+Sypha optional slightly more balanced magic damage for Japanese version.
 
 Axe Rondo of Blood damage for Trevor.
 
-Daggers better damage except Japanese Grant.
+Dagger Subweapon better damage except Japanese Grant.
 
-Fire Spell speed fix.
+Alucard Fireballs, and Fire Spell delay fix.
 
 Holy Water slightly rebalanced.
 
@@ -43,4 +44,5 @@ Curse of the Moon Subweapon Lanterns.
 Rondo of Blood drop old subweapon on new pickup US only.
 
 Alucard attack on stairs bugfix US only.
+
 
